@@ -1,4 +1,4 @@
-# Team Charter: [Fable / Meridian / your initiative]
+# Team Charter: Meridian 
 
 > Module 3 · Lead and Develop High-Performing Teams, ★ Deliverable 3
 >
@@ -10,10 +10,10 @@ _The team's mandate: the outcomes and surfaces this team is accountable for end-
 
 | Area | We own it | We influence it (don't own) |
 |---|---|---|
-| _____ | _____ | _____ |
-| _____ | _____ | _____ |
+| Foundations | The end-to-end mobile experience for superintendents and foremen. | _____ |
+| Enterprise | _____ | The desktop web platform, project management dashboards, budget analytics, the desktop "Rules Engine," and any bespoke/custom-coded mobile workflows requested by specific Enterprise GCs for contract renewals.|
 
-> Our mission in one line: _____
+> Our mission in one line: Our mission is to bridge the mud and the back-office by building a frictionless mobile utility that gives field teams their time back while silently powering enterprise compliance.
 
 ## 2. How We Decide
 
@@ -21,10 +21,11 @@ _The team's decision-making operating model: the decisions you make, who makes e
 
 | Decision type | Who decides | Who's consulted | How we break a tie |
 |---|---|---|---|
-| _____ | _____ | _____ | _____ |
-| _____ | _____ | _____ | _____ |
+| Mobile app UX & field feature prioritization | PM 1 (Field Adoption) | UX Research, Mobile Engineering | Foundations Product Leader|
+| Enterprise desktop features & compliance structures | PM 2 (Enterprise) | PM 1 (to ensure mobile feasibility), Enterprise Sales | Foundations Product Leader |
+| Engineering capacity & roadmap reprioritization | Foundations Product Leader | PM 1, PM 2, Enterprise Sales | CPO |
 
-> Our default: _____ decides; we escalate to _____ when _____.
+> Our default: the respective domain owner (PM 1 for Field, PM 2 for Enterprise) decides; we escalate to the Foundations Product Leader (and ultimately the CPO) when cross-team alignment fails or enterprise sales requests threaten to pull engineering capacity away from our core bets.
 
 ## Link to full artifact
 
